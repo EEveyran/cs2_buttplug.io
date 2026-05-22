@@ -42,12 +42,12 @@ Control your buttplugbased on CS2 game events via Intiface Central.
 ### 2. Install this project
 ```bash
 # Clone or copy this folder somewhere on your PC, then:
-cd cs2-lovense
+cd cs2-buttplug
 npm install
 ```
 
 ### 3. Add the CS2 GSI config file
-Copy `config/gamestate_integration_lovense.cfg` to:
+Copy `config/gamestate_integration_buttplug.cfg` to:
 ```
 C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\
 ```
@@ -58,7 +58,7 @@ npm start
 ```
 You should see:
 ```
-🎮 CS2 Lovense Integration
+🎮 CS2 buttplug Integration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 📡 GSI server listening on port 3000
 🔗 Connecting to Intiface at ws://127.0.0.1:12345...
