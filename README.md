@@ -25,7 +25,7 @@ Control your buttplugbased on CS2 game events via Intiface Central.
 
 - **Node.js** v18 or higher
 - **Intiface Central** — download from https://intiface.com/central/
-- **Lovense Hush 2** paired via Intiface
+- **BLE buttplug** paired via Intiface
 - **CS2** installed via Steam
 
 ---
