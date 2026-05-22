@@ -6,6 +6,9 @@ that uses node js
 
 Control your buttplugbased on CS2 game events via Intiface Central.
 
+## video showcase with logs
+https://youtu.be/r7XNwQcgH0s
+
 ## Events
 
 | Event           | Behavior                                          |
