@@ -1,9 +1,9 @@
 # cs2_buttplug.io
 a simple light weight program made for intergrating pleasure with cs2
 that uses node js
-# CS2 × Lovense Hush 2 Integration
+# CS2 × buttplug
 
-Control your Lovense Hush 2 based on CS2 game events via Intiface Central.
+Control your buttplugbased on CS2 game events via Intiface Central.
 
 ## Events
 
@@ -36,7 +36,7 @@ Control your Lovense Hush 2 based on CS2 game events via Intiface Central.
 1. Download and install from https://intiface.com/central/
 2. Open it, go to **Settings** and make sure the WebSocket server port is `12345`
 3. Click **Start Server**
-4. Turn on your Lovense Hush 2 and click **Scan for Devices** — it should appear
+4. Turn on your buttplug and click **Scan for Devices** — it should appear
 
 ### 2. Install this project
 ```bash
@@ -62,7 +62,7 @@ You should see:
 📡 GSI server listening on port 3000
 🔗 Connecting to Intiface at ws://127.0.0.1:12345...
 
-✅ Device connected: Lovense Hush 2
+✅ Device connected: to buttplug :D
 ```
 
 ### 5. Launch CS2 and play!
@@ -92,7 +92,7 @@ While running, visit http://localhost:3000 to see connected devices and current 
 → Make sure Intiface Central is open and the server is **started** (green button), not just installed.
 
 **Device not found**
-→ Turn on the Hush 2 first, then click Scan in Intiface. Make sure Bluetooth is on.
+→ Turn on silly buttplug :D first, then click Scan in Intiface. Make sure Bluetooth is on.
 
 **No events firing in CS2**
 → Double-check the `.cfg` file is in the right CS2 folder. The path changed in CS2 vs CSGO.
